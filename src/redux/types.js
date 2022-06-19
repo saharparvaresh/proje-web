@@ -1,0 +1,50 @@
+export const LOGIN = "LOGIN";
+export const REGISTER = "REGISTER";
+export const CHANGE_VALUE_ACTION = "CHANGE_VALUE_ACTION"
+export const SUBMIT = "SUBMIT";
+
+export const SAVE_TOKEN = "SAVE_TOKEN";
+
+
+export const DATA_FETCHING = "DATA_FETCHING";
+
+
+export const FILTERATION = "FILTERATION";
+
+
+export const MODAL_BOX = "MODAL_BOX";
+export const DATA_MODAL_GET = "DATA_MODAL_GET";
+export const DATA_MODAL_POST = "DATA_MODAL_POST";
+export const DATA_MODAL_UPDATE = "DATA_MODAL_UPDATE";
+export const DATA_MODAL_DELETE = "DATA_MODAL_DELETE";
+export const FORM_MODAL_BOX = "FORM_MODAL_BOX";
+
+
+
+export const IS_EDIT_SAVE_PRDOUCTS = "IS_EDIT_SAVE_PRDOUCTS";
+export const CHANGE_PRODUCTS_MANAGE = "CHANGE_PRODUCTS_MANAGE";
+export const DATA_PRODUCT_MANAGAE_GET = "DATA_PRODUCT_MANAGAE_GET";
+export const DATA_PRODUCT_PRICE_GET = "DATA_PRODUCT_PRICE_GET";
+export const DATA_PRODUCT_COUNT_GET = "DATA_PRODUCT_COUNT_GET";
+
+
+
+
+export const CART_ADD = "CART_ADD";
+export const CART_REMOVE = "CART_REMOVE";
+
+
+
+
+export const IS_SHOW_MODAL_ORDER = "IS_SHOW_MODAL_ORDER";
+export const TYPE_ORDER = "TYPE_ORDER";
+
+
+export const DATA_MODAL_ORDER_UPDATE = "DATA_MODAL_ORDER_UPDATE";
+
+
+
+export const PAYMENT_RESULT = "PAYMENT_RESULT";
+
+
+export const CHECKOUT_FORM = "CHECKKOUT_FORM";
